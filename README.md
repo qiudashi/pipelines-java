@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Walalala/AZ400%20Preparation/_apis/build/status/qiudashi.pipelines-java?branchName=master)](https://dev.azure.com/Walalala/AZ400%20Preparation/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
